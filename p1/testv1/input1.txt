@@ -1,0 +1,17 @@
+0
+1
+2
+-l -a
+./..
+
+2
+
+
+cheeseburger
+
+cheese burger
+p
+c
+./..
+p
+e

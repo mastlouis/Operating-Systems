@@ -1,0 +1,698 @@
+mastlouis
+mastloui tty7         :0               Fri Jan 25 16:40    gone - no logout
+reboot   system boot  4.4.162mastlouis Fri Jan 25 16:39   still running
+mastloui tty7         :0               Wed Jan 16 17:50 - crash (8+22:49)
+reboot   system boot  4.4.162mastlouis Wed Jan 16 17:45   still running
+mastloui tty7         :0               Mon Jan 14 23:51 - crash (1+17:54)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:22   still running
+mastloui tty7         :0               Mon Jan 14 23:48 - down   (00:02)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:19 - 23:50 (2+21:31)
+mastloui tty7         :0               Mon Jan 14 23:37 - down   (00:09)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:09 - 23:47 (2+21:37)
+mastloui tty7         :0               Fri Jan 11 14:30 - crash  (11:38)
+reboot   system boot  4.4.0-31-generic Fri Jan 11 14:29 - 23:47 (3+09:18)
+
+wtmp begins Fri Jan 11 14:29:25 2019
+total 32
+drwxrwxr-x  6 mastlouis mastlouis 4096 Jan 25 22:23 .
+drwxr-xr-x 20 mastlouis mastlouis 4096 Jan 25 16:40 ..
+drwxrwxr-x  5 mastlouis mastlouis 4096 Jan 25 23:10 submission
+drwxrwxr-x  2 mastlouis mastlouis 4096 Jan 20 19:45 v0
+-rw-rw-r--  1 mastlouis mastlouis 8137 Jan 18 21:19 v0.zip
+drwxrwxr-x  2 mastlouis mastlouis 4096 Jan 23 17:04 v1
+drwxrwxr-x  2 mastlouis mastlouis 4096 Jan 25 20:35 v2
+Makefile
+mc0
+mc0.c
+mc0.h
+mc1
+mc1.c
+mc1.h
+mc2
+mc2.c
+mc2.h
+testV0
+testV1
+testv2
+mastlouis
+===== Mid-Day Commander, v1 =====
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Who Am I? --
+
+-- Statistics ---
+Elapsed time: 1442 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 6
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Last Logins --
+
+-- Statistics ---
+Elapsed time: 976 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Directory listing --
+Arguments? Path?
+-- Statistics ---
+Elapsed time: 1428 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? Error: Please enter a command.
+Option? 
+-- Directory listing --
+Arguments? Path?
+-- Statistics ---
+Elapsed time: 801 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 3!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+--Command: whoami --
+
+-- Statistics ---
+Elapsed time: 854 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 4!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1    January 2019      
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 23 24 _2_5 26  
+27 28 29 30 31        
+                      
+Fri Jan 25 23:41:02 EST 2019
+total 144
+drwxrwxr-x 5 mastlouis mastlouis  4096 Jan 25 23:10 .
+drwxrwxr-x 6 mastlouis mastlouis  4096 Jan 25 22:23 ..
+-rw-rw-r-- 1 mastlouis mastlouis   260 Jan 25 23:08 Makefile
+-rwxrwxr-x 1 mastlouis mastlouis 17072 Jan 25 23:10 mc0
+-rw-rw-r-- 1 mastlouis mastlouis  8490 Jan 25 23:06 mc0.c
+-rw-rw-r-- 1 mastlouis mastlouis   397 Jan 25 22:40 mc0.h
+-rwxrwxr-x 1 mastlouis mastlouis 17984 Jan 25 23:10 mc1
+-rw-rw-r-- 1 mastlouis mastlouis 12166 Jan 25 23:02 mc1.c
+-rw-rw-r-- 1 mastlouis mastlouis   817 Jan 25 22:59 mc1.h
+-rwxrwxr-x 1 mastlouis mastlouis 23120 Jan 25 23:10 mc2
+-rw-rw-r-- 1 mastlouis mastlouis 18085 Jan 25 22:56 mc2.c
+-rw-rw-r-- 1 mastlouis mastlouis  1298 Jan 25 22:56 mc2.h
+drwxrwxr-x 2 mastlouis mastlouis  4096 Jan 25 23:30 testV0
+drwxrwxr-x 2 mastlouis mastlouis  4096 Jan 25 23:41 testV1
+drwxrwxr-x 2 mastlouis mastlouis  4096 Jan 25 23:09 testv2
+. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+--Command: cal --
+
+-- Statistics ---
+Elapsed time: 3126 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 5!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+--Command: date --
+
+-- Statistics ---
+Elapsed time: 1569 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 6!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+--Command: ls -a -l --
+
+-- Statistics ---
+Elapsed time: 3108 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 7!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 8!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 9!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 10!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 11!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 12!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 13!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 14!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 15!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 16!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 17!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 18!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 19!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+  19. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 20!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+  19. whoami  : User added command
+  20. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Commamastlouis
+nd to add? Okay! Added with ID 21!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+  19. whoami  : User added command
+  20. whoami  : User added command
+  21. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+-- Add a command --
+Command to add? Okay! Added with ID 22!
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+  19. whoami  : User added command
+  20. whoami  : User added command
+  21. whoami  : User added command
+  22. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? 
+--Command: whoami --
+
+-- Statistics ---
+Elapsed time: 812 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+   3. whoami  : User added command
+   4. cal     : User added command
+   5. date    : User added command
+   6. ls -a -l : User added command
+   7. whoami  : User added command
+   8. whoami  : User added command
+   9. whoami  : User added command
+  10. whoami  : User added command
+  11. whoami  : User added command
+  12. whoami  : User added command
+  13. whoami  : User added command
+  14. whoami  : User added command
+  15. whoami  : User added command
+  16. whoami  : User added command
+  17. whoami  : User added command
+  18. whoami  : User added command
+  19. whoami  : User added command
+  20. whoami  : User added command
+  21. whoami  : User added command
+  22. whoami  : User added command
+   a. add command : Adds a new command to the menu.
+   c. change directory : Changes process working directory
+   e. exit : Leave mid-day commander
+   p. pwd : Prints working directory
+Option? Logging you out, Commander.
