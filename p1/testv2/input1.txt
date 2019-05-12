@@ -1,0 +1,30 @@
+0
+1
+2
+-l -a
+./..
+
+2
+
+
+a
+whoami
+3
+r
+a
+cal
+4
+a
+date
+5
+a
+ls -a -l
+6
+a
+whoami
+a
+ls -a -l &
+8
+a
+date &
+9
