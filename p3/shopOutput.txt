@@ -1,0 +1,464 @@
+...                       the ninja is entering the shop with team 0. Time waited: 0
+Michaelangelo             the ninja is entering the shop with team 1. Time waited: 0
+Kung Baz Panda            the ninja is entering the shop with team 2. Time waited: 0
+Striking Kobra            the ninja is entering the shop with team 1. Time waited: 2
+Bloodeyes                 the ninja is entering the shop with team 2. Time waited: 2
+A ninja in a pirate costume the ninja is entering the shop with team 0. Time waited: 0
+Talkative Steve           the ninja is entering the shop with team 2. Time waited: 1
+Ninja Ninjington          the ninja is entering the shop with team 0. Time waited: 1
+Bruce Lee                 the ninja is entering the shop with team 1. Time waited: 3
+Ninja Ninjington          the ninja is entering the shop with team 0. Time waited: 1
+Donatello                 the ninja is entering the shop with team 2. Time waited: 5
+Rafael                    the ninja is entering the shop with team 2. Time waited: 7
+Michaelangelo             the ninja is entering the shop with team 0. Time waited: 3
+Silent Steve              the ninja is entering the shop with team 1. Time waited: 7
+Matt                      the ninja is entering the shop with team 2. Time waited: 9
+Dave                      the ninja is entering the shop with team 0. Time waited: 8
+The other Matt            the ninja is entering the shop with team 0. Time waited: 11
+Ninja Ninjington          the ninja is entering the shop with team 2. Time waited: 11
+Jake from State Farm      the ninja is entering the shop with team 0. Time waited: 14
+Fay                       the ninja is entering the shop with team 1. Time waited: 4
+Brian                     the ninja is entering the shop with team 0. Time waited: 3
+Leonardo                  the ninja is entering the shop with team 2. Time waited: 9
+Joan                      the ninja is entering the shop with team 0. Time waited: 7
+Silent Lightning          the ninja is entering the shop with team 2. Time waited: 10
+Jeff                      the ninja is entering the shop with team 0. Time waited: 18
+Dave                      the ninja is entering the shop with team 0. Time waited: 2
+That girl from Kingsman   the ninja is entering the shop with team 2. Time waited: 12
+Swift Wind                the ninja is entering the shop with team 1. Time waited: 15
+...                       the ninja is entering the shop with team 0. Time waited: 5
+The Slender Viper         the ninja is entering the shop with team 2. Time waited: 13
+Danny Avidan              the ninja is entering the shop with team 0. Time waited: 17
+Kung Bar Panda            the ninja is entering the shop with team 1. Time waited: 11
+Lethal Moon               the ninja is entering the shop with team 2. Time waited: 17
+Kung Foo Panda            the ninja is entering the shop with team 1. Time waited: 13
+A pirate has blocked the ninjas. New multiplier: 2
+Arrthurr                 the pirate is entering the shop with team 2. Time waited: 23
+Mr. Scurvington (sr.)    the pirate is entering the shop with team 0. Time waited: 26
+Bearded Dave             the pirate is entering the shop with team 1. Time waited: 28
+Nabstr                   the pirate is entering the shop with team 0. Time waited: 28
+Mr. Scurvington (sr.)    the pirate is entering the shop with team 0. Time waited: 0
+Scurvy Jim               the pirate is entering the shop with team 2. Time waited: 25
+Quatheryne               the pirate is entering the shop with team 1. Time waited: 28
+The Walking Dutchman     the pirate is entering the shop with team 0. Time waited: 36
+Arrrline                 the pirate is entering the shop with team 1. Time waited: 38
+Quatheryne               the pirate is entering the shop with team 2. Time waited: 2
+ARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR the pirate is entering the shop with team 1. Time waited: 38
+Mr. Scurvington (sr.)    the pirate is entering the shop with team 0. Time waited: 3
+A ninja has blocked the pirates. New Multiplier: 3
+That DC superhero Katana  the ninja is entering the shop with team 1. Time waited: 44
+Chuck Norris              the ninja is entering the shop with team 2. Time waited: 44
+Sasuke                    the ninja is entering the shop with team 0. Time waited: 44
+Kung Bar Panda            the ninja is entering the shop with team 2. Time waited: 22
+The Quick Spider          the ninja is entering the shop with team 0. Time waited: 51
+The Winged Mamba          the ninja is entering the shop with team 1. Time waited: 49
+Danny Avidan              the ninja is entering the shop with team 2. Time waited: 21
+Swift Wind                the ninja is entering the shop with team 1. Time waited: 28
+Chuck Norris              the ninja is entering the shop with team 0. Time waited: 1
+That girl from Kingsman   the ninja is entering the shop with team 2. Time waited: 31
+Bruce Lee                 the ninja is entering the shop with team 0. Time waited: 44
+Gilbert                   the ninja is entering the shop with team 2. Time waited: 61
+Talkative Steve           the ninja is entering the shop with team 0. Time waited: 46
+The other other Matt      the ninja is entering the shop with team 1. Time waited: 57
+Ninja Ninjington          the ninja is entering the shop with team 2. Time waited: 56
+Lethal Moon               the ninja is entering the shop with team 0. Time waited: 30
+Ninja Ninjington          the ninja is entering the shop with team 1. Time waited: 56
+Kung Foo Panda            the ninja is entering the shop with team 1. Time waited: 39
+The Quick Spider          the ninja is entering the shop with team 1. Time waited: 1
+Ninja Ninjington          the ninja is entering the shop with team 2. Time waited: 58
+Ninja Ninjington          the ninja is entering the shop with team 0. Time waited: 60
+That girl from Kingsman   the ninja is entering the shop with team 0. Time waited: 4
+Jeff                      the ninja is entering the shop with team 1. Time waited: 45
+Candybeard               the pirate is entering the shop with team 2. Time waited: 74
+Blackbeard's Ghost's Ghost's Ghost the pirate is entering the shop with team 0. Time waited: 76
+Sailor of the C#         the pirate is entering the shop with team 1. Time waited: 76
+Scurvy Tom               the pirate is entering the shop with team 0. Time waited: 74
+A pirate has blocked the ninjas. New multiplier: 4
+The Danish Dutchman      the pirate is entering the shop with team 0. Time waited: 80
+Howling Harrrold         the pirate is entering the shop with team 0. Time waited: 82
+Blackbeard               the pirate is entering the shop with team 1. Time waited: 85
+ma~ (pronounced Matilda) the pirate is entering the shop with team 2. Time waited: 88
+The Crawling Dutchman    the pirate is entering the shop with team 0. Time waited: 83
+Nabstr                   the pirate is entering the shop with team 2. Time waited: 59
+The Flying Dutchman      the pirate is entering the shop with team 0. Time waited: 92
+Blackbeard               the pirate is entering the shop with team 1. Time waited: 0
+Patchy                   the pirate is entering the shop with team 2. Time waited: 92
+ma~ (pronounced Matilda) the pirate is entering the shop with team 0. Time waited: 1
+Blackbeard's Ghost's Ghost the pirate is entering the shop with team 1. Time waited: 104
+Sailor of the C          the pirate is entering the shop with team 2. Time waited: 106
+Johnny Depp              the pirate is entering the shop with team 0. Time waited: 105
+Arrnold                  the pirate is entering the shop with team 0. Time waited: 110
+Blackbeard's Ghost       the pirate is entering the shop with team 2. Time waited: 115
+Mr. Scurvington (jr.)    the pirate is entering the shop with team 1. Time waited: 110
+Peggy                    the pirate is entering the shop with team 0. Time waited: 119
+The Laying Dutchman      the pirate is entering the shop with team 2. Time waited: 116
+The Flying Dutchman      the pirate is entering the shop with team 0. Time waited: 22
+Captain Feathersword     the pirate is entering the shop with team 0. Time waited: 119
+Sailor of the C++        the pirate is entering the shop with team 2. Time waited: 123
+Howling Harrrold         the pirate is entering the shop with team 0. Time waited: 31
+Mr. Scurvington (sr.)    the pirate is entering the shop with team 2. Time waited: 71
+The Dutch Dutchman       the pirate is entering the shop with team 1. Time waited: 121
+Mr. Scurvington (sr.)    the pirate is entering the shop with team 2. Time waited: 0
+Sailor of the C++        the pirate is entering the shop with team 0. Time waited: 1
+ma~ (pronounced Matilda) the pirate is entering the shop with team 1. Time waited: 15
+
+
+**** Statistics ****
+
+
+Mr. Scurvington (sr.)    the pirate went to the shop 5 time.
+	Visit 0 wait time: 26
+		Team used: 0  Time in store: 3
+	Visit 1 wait time: 0
+		Team used: 0  Time in store: 6
+	Visit 2 wait time: 3
+		Team used: 0  Time in store: 5
+	Visit 3 wait time: 71
+		Team used: 2  Time in store: 2
+	Visit 4 wait time: 0
+		Team used: 2  Time in store: 6
+	Total Gold owed: 20
+Arrthurr                 the pirate went to the shop 1 times.
+	Visit 0 wait time: 23
+		Team used: 2  Time in store: 5
+	Total Gold owed: 5
+Bearded Dave             the pirate went to the shop 1 times.
+	Visit 0 wait time: 28
+		Team used: 1  Time in store: 8
+	Total Gold owed: 8
+The Flying Dutchman      the pirate went to the shop 2 time.
+	Visit 0 wait time: 92
+		Team used: 0  Time in store: 8
+	Visit 1 wait time: 22
+		Team used: 0  Time in store: 2
+	Total Gold owed: 2
+Scurvy Jim               the pirate went to the shop 1 times.
+	Visit 0 wait time: 25
+		Team used: 2  Time in store: 10
+	Total Gold owed: 10
+Arrnold                  the pirate went to the shop 1 times.
+	Visit 0 wait time: 110
+		Team used: 0  Time in store: 9
+	Total Gold owed: 0
+The Walking Dutchman     the pirate went to the shop 1 times.
+	Visit 0 wait time: 36
+		Team used: 0  Time in store: 11
+	Total Gold owed: 0
+Mr. Scurvington (jr.)    the pirate went to the shop 1 times.
+	Visit 0 wait time: 110
+		Team used: 1  Time in store: 10
+	Total Gold owed: 0
+The Crawling Dutchman    the pirate went to the shop 1 times.
+	Visit 0 wait time: 83
+		Team used: 0  Time in store: 3
+	Total Gold owed: 0
+Scurvy Tom               the pirate went to the shop 1 times.
+	Visit 0 wait time: 74
+		Team used: 0  Time in store: 4
+	Total Gold owed: 0
+Howling Harrrold         the pirate went to the shop 2 time.
+	Visit 0 wait time: 82
+		Team used: 0  Time in store: 6
+	Visit 1 wait time: 31
+		Team used: 0  Time in store: 5
+	Total Gold owed: 0
+The Laying Dutchman      the pirate went to the shop 1 times.
+	Visit 0 wait time: 116
+		Team used: 2  Time in store: 4
+	Total Gold owed: 0
+Arrrline                 the pirate went to the shop 1 times.
+	Visit 0 wait time: 38
+		Team used: 1  Time in store: 4
+	Total Gold owed: 0
+Quatheryne               the pirate went to the shop 2 time.
+	Visit 0 wait time: 28
+		Team used: 1  Time in store: 3
+	Visit 1 wait time: 2
+		Team used: 2  Time in store: 11
+	Total Gold owed: 14
+ma~ (pronounced Matilda) the pirate went to the shop 3 time.
+	Visit 0 wait time: 88
+		Team used: 2  Time in store: 3
+	Visit 1 wait time: 1
+		Team used: 0  Time in store: 8
+	Visit 2 wait time: 15
+		Team used: 1  Time in store: 3
+	Total Gold owed: 11
+Johnny Depp              the pirate went to the shop 1 times.
+	Visit 0 wait time: 105
+		Team used: 0  Time in store: 3
+	Total Gold owed: 0
+Patchy                   the pirate went to the shop 1 times.
+	Visit 0 wait time: 92
+		Team used: 2  Time in store: 9
+	Total Gold owed: 0
+Peggy                    the pirate went to the shop 1 times.
+	Visit 0 wait time: 119
+		Team used: 0  Time in store: 2
+	Total Gold owed: 0
+Candybeard               the pirate went to the shop 1 times.
+	Visit 0 wait time: 74
+		Team used: 2  Time in store: 11
+	Total Gold owed: 0
+Nabstr                   the pirate went to the shop 2 time.
+	Visit 0 wait time: 28
+		Team used: 0  Time in store: 0
+	Visit 1 wait time: 59
+		Team used: 2  Time in store: 6
+	Total Gold owed: 0
+Captain Feathersword     the pirate went to the shop 1 times.
+	Visit 0 wait time: 119
+		Team used: 0  Time in store: 1
+	Total Gold owed: 0
+Sailor of the C          the pirate went to the shop 1 times.
+	Visit 0 wait time: 106
+		Team used: 2  Time in store: 9
+	Total Gold owed: 0
+Sailor of the C++        the pirate went to the shop 2 time.
+	Visit 0 wait time: 123
+		Team used: 2  Time in store: 1
+	Visit 1 wait time: 1
+		Team used: 0  Time in store: 5
+	Total Gold owed: 5
+Sailor of the C#         the pirate went to the shop 1 times.
+	Visit 0 wait time: 76
+		Team used: 1  Time in store: 10
+	Total Gold owed: 0
+Blackbeard               the pirate went to the shop 2 time.
+	Visit 0 wait time: 85
+		Team used: 1  Time in store: 8
+	Visit 1 wait time: 0
+		Team used: 1  Time in store: 11
+	Total Gold owed: 11
+Blackbeard's Ghost       the pirate went to the shop 1 times.
+	Visit 0 wait time: 115
+		Team used: 2  Time in store: 6
+	Total Gold owed: 0
+Blackbeard's Ghost's Ghost the pirate went to the shop 1 times.
+	Visit 0 wait time: 104
+		Team used: 1  Time in store: 11
+	Total Gold owed: 0
+Blackbeard's Ghost's Ghost's Ghost the pirate went to the shop 1 times.
+	Visit 0 wait time: 76
+		Team used: 0  Time in store: 1
+	Total Gold owed: 0
+ARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR the pirate went to the shop 1 times.
+	Visit 0 wait time: 38
+		Team used: 1  Time in store: 10
+	Total Gold owed: 0
+The Dutch Dutchman       the pirate went to the shop 1 times.
+	Visit 0 wait time: 121
+		Team used: 1  Time in store: 4
+	Total Gold owed: 0
+The Danish Dutchman      the pirate went to the shop 1 times.
+	Visit 0 wait time: 80
+		Team used: 0  Time in store: 0
+	Total Gold owed: 0
+...                       the ninja went to the shop 2 times.
+	Visit 0 wait time: 0
+		Team used: 0  Time in store: 5
+	Visit 1 wait time: 5
+		Team used: 0  Time in store: 1
+	Total Gold owed: 6
+Swift Wind                the ninja went to the shop 2 times.
+	Visit 0 wait time: 15
+		Team used: 1  Time in store: 2
+	Visit 1 wait time: 28
+		Team used: 1  Time in store: 5
+	Total Gold owed: 7
+Donatello                 the ninja went to the shop 1 times.
+	Visit 0 wait time: 5
+		Team used: 2  Time in store: 0
+	Total Gold owed: 0
+Michaelangelo             the ninja went to the shop 2 times.
+	Visit 0 wait time: 0
+		Team used: 1  Time in store: 4
+	Visit 1 wait time: 3
+		Team used: 0  Time in store: 5
+	Total Gold owed: 9
+Rafael                    the ninja went to the shop 1 times.
+	Visit 0 wait time: 7
+		Team used: 2  Time in store: 5
+	Total Gold owed: 5
+Leonardo                  the ninja went to the shop 1 times.
+	Visit 0 wait time: 9
+		Team used: 2  Time in store: 2
+	Total Gold owed: 2
+Bruce Lee                 the ninja went to the shop 2 times.
+	Visit 0 wait time: 3
+		Team used: 1  Time in store: 5
+	Visit 1 wait time: 44
+		Team used: 0  Time in store: 2
+	Total Gold owed: 5
+Danny Avidan              the ninja went to the shop 2 times.
+	Visit 0 wait time: 17
+		Team used: 0  Time in store: 5
+	Visit 1 wait time: 21
+		Team used: 2  Time in store: 3
+	Total Gold owed: 8
+Striking Kobra            the ninja went to the shop 1 times.
+	Visit 0 wait time: 2
+		Team used: 1  Time in store: 2
+	Total Gold owed: 2
+Silent Lightning          the ninja went to the shop 1 times.
+	Visit 0 wait time: 10
+		Team used: 2  Time in store: 1
+	Total Gold owed: 1
+Kung Foo Panda            the ninja went to the shop 2 times.
+	Visit 0 wait time: 13
+		Team used: 1  Time in store: 3
+	Visit 1 wait time: 39
+		Team used: 1  Time in store: 0
+	Total Gold owed: 3
+Kung Bar Panda            the ninja went to the shop 2 times.
+	Visit 0 wait time: 11
+		Team used: 1  Time in store: 3
+	Visit 1 wait time: 22
+		Team used: 2  Time in store: 4
+	Total Gold owed: 7
+Kung Baz Panda            the ninja went to the shop 1 times.
+	Visit 0 wait time: 0
+		Team used: 2  Time in store: 4
+	Total Gold owed: 4
+Dave                      the ninja went to the shop 2 times.
+	Visit 0 wait time: 8
+		Team used: 0  Time in store: 0
+	Visit 1 wait time: 2
+		Team used: 0  Time in store: 2
+	Total Gold owed: 2
+Sasuke                    the ninja went to the shop 1 times.
+	Visit 0 wait time: 44
+		Team used: 0  Time in store: 5
+	Total Gold owed: 0
+That girl from Kingsman   the ninja went to the shop 3 times.
+	Visit 0 wait time: 12
+		Team used: 2  Time in store: 2
+	Visit 1 wait time: 31
+		Team used: 2  Time in store: 2
+	Visit 2 wait time: 4
+		Team used: 0  Time in store: 4
+	Total Gold owed: 6
+That DC superhero Katana  the ninja went to the shop 1 times.
+	Visit 0 wait time: 44
+		Team used: 1  Time in store: 5
+	Total Gold owed: 0
+Chuck Norris              the ninja went to the shop 2 times.
+	Visit 0 wait time: 44
+		Team used: 2  Time in store: 3
+	Visit 1 wait time: 1
+		Team used: 0  Time in store: 0
+	Total Gold owed: 0
+Gilbert                   the ninja went to the shop 1 times.
+	Visit 0 wait time: 61
+		Team used: 2  Time in store: 1
+	Total Gold owed: 0
+The Slender Viper         the ninja went to the shop 1 times.
+	Visit 0 wait time: 13
+		Team used: 2  Time in store: 1
+	Total Gold owed: 1
+The Quick Spider          the ninja went to the shop 2 times.
+	Visit 0 wait time: 51
+		Team used: 0  Time in store: 5
+	Visit 1 wait time: 1
+		Team used: 1  Time in store: 5
+	Total Gold owed: 5
+The Winged Mamba          the ninja went to the shop 1 times.
+	Visit 0 wait time: 49
+		Team used: 1  Time in store: 3
+	Total Gold owed: 0
+Bloodeyes                 the ninja went to the shop 1 times.
+	Visit 0 wait time: 2
+		Team used: 2  Time in store: 1
+	Total Gold owed: 1
+Silent Steve              the ninja went to the shop 1 times.
+	Visit 0 wait time: 7
+		Team used: 1  Time in store: 5
+	Total Gold owed: 5
+Lethal Moon               the ninja went to the shop 2 times.
+	Visit 0 wait time: 17
+		Team used: 2  Time in store: 5
+	Visit 1 wait time: 30
+		Team used: 0  Time in store: 3
+	Total Gold owed: 5
+Talkative Steve           the ninja went to the shop 2 times.
+	Visit 0 wait time: 1
+		Team used: 2  Time in store: 3
+	Visit 1 wait time: 46
+		Team used: 0  Time in store: 0
+	Total Gold owed: 3
+Jake from State Farm      the ninja went to the shop 1 times.
+	Visit 0 wait time: 14
+		Team used: 0  Time in store: 1
+	Total Gold owed: 1
+A ninja in a pirate costume the ninja went to the shop 1 times.
+	Visit 0 wait time: 0
+		Team used: 0  Time in store: 1
+	Total Gold owed: 1
+Fay                       the ninja went to the shop 1 times.
+	Visit 0 wait time: 4
+		Team used: 1  Time in store: 5
+	Total Gold owed: 5
+Matt                      the ninja went to the shop 1 times.
+	Visit 0 wait time: 9
+		Team used: 2  Time in store: 1
+	Total Gold owed: 1
+The other Matt            the ninja went to the shop 1 times.
+	Visit 0 wait time: 11
+		Team used: 0  Time in store: 1
+	Total Gold owed: 1
+The other other Matt      the ninja went to the shop 1 times.
+	Visit 0 wait time: 57
+		Team used: 1  Time in store: 1
+	Total Gold owed: 0
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 11
+		Team used: 2  Time in store: 3
+	Total Gold owed: 3
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 58
+		Team used: 2  Time in store: 5
+	Total Gold owed: 0
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 1
+		Team used: 0  Time in store: 1
+	Total Gold owed: 1
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 56
+		Team used: 2  Time in store: 3
+	Total Gold owed: 0
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 56
+		Team used: 1  Time in store: 1
+	Total Gold owed: 0
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 1
+		Team used: 0  Time in store: 2
+	Total Gold owed: 2
+Ninja Ninjington          the ninja went to the shop 1 times.
+	Visit 0 wait time: 60
+		Team used: 0  Time in store: 4
+	Total Gold owed: 0
+Brian                     the ninja went to the shop 1 times.
+	Visit 0 wait time: 3
+		Team used: 0  Time in store: 1
+	Total Gold owed: 1
+Joan                      the ninja went to the shop 1 times.
+	Visit 0 wait time: 7
+		Team used: 0  Time in store: 2
+	Total Gold owed: 2
+Jeff                      the ninja went to the shop 2 times.
+	Visit 0 wait time: 18
+		Team used: 0  Time in store: 0
+	Visit 1 wait time: 45
+		Team used: 1  Time in store: 0
+	Total Gold owed: 0
+The shop spent 15 gold on 3 teams
+Gross revenue: 191
+Total visits: 100
+Gold per visit: 1.910000
+Total profit: 176
+The shop was open for 137.153958 minutes
+Average line size was 27.431328 people
+Team 0 was busy for 132 minutes and free for 5.153958 minutes
+Team 1 was busy for 131 minutes and free for 6.153958 minutes
+Team 2 was busy for 132 minutes and free for 5.153958 minutes

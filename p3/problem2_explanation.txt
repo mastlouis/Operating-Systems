@@ -1,0 +1,13 @@
+Phase 1: This intersection is controlled by a struct holding an integer determining if the quadrant has a car or not. This struct is locked by a mutex lock, so it can only be accessed by one car thread at a time. To determine when a car arrived first, a queue is used to keep track of which car was the first one to approach the intersection from each direction. If the car is at the front of the queue, it can attempt to enter the intersection. Once it enters, it signals to the next car in the queue and wakes it up.
+This method is not optimal since the cars must enter the intersection in the order in which they have arrived, even if the quadrants they need are free while another car is turning. Say, for example:
+	Car 1 comes from the north and is heading east (left turn)
+	Car 2 comes from the west and is heading east (straight)
+	Car 3 comes from the east and is heading west (right turn)
+Assume at the cars arrive in this order. In this example, even though Car 3 will be able to access the quadrant it needs while Car 1 is turning, it must wait for Car 2 to pass through the intersection first because Car 2 arrived before Car 1.
+A way to combat this is to have one queue per directing in which the car approaches the intersection. This is what we have implemented in part2.c.
+
+Phase 2: If multiple Massachusetts drivers enter the intersection but cannot leave until another car is able, this will produce a deadlock. For example, if four cars, one coming from each direction, all attempt to turn left at the same time, they will reach the first quadrant they need. But when they all attempt to enter the second quadrant necessary for a left turn, they will discover that there is a car in the way and wait for the other cars, resulting in deadlock.
+There are multiple ways to prevent this:
+1.) Schedule when each car can access each of the locks. Say, a car must access the northwest lock first, then the southwest, then the southeast, then the northeast.
+2.) Check if you can access all of the quadrants you need. If not, release all of the locks you hold (this is similar to what the Minnesota drivers are doing).
+3.) Only allow three cars in the intersection at a time. This would require a lock around the entire intersection, preventing any cars from entering the intersection even if their quadrant is open. This way, any case in which four cars are in the intersection is avoided. 

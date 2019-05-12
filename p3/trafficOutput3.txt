@@ -1,0 +1,300 @@
+Car  3 has approached from the west. It is going to go straight due east. 
+Car  8 has approached from the east. It is going to turn to the left due south. 
+Car 15 has approached from the west. It is going to turn to the left due north. 
+Car 12 has approached from the east. It is going to turn to the right due north. 
+Car  4 has approached from the west. It is going to turn to the left due north. 
++++Car  8 has entered the intersection from the east. It is approaching the south. 
+Car  6 has approached from the east. It is going to go straight due west. 
+Car  5 has approached from the south. It is going to turn to the left due west. 
+Car  1 has approached from the south. It is going to go straight due north. 
+Car  2 has approached from the north. It is going to go straight due south. 
+Car 13 has approached from the south. It is going to turn to the left due west. 
+Car  0 has approached from the south. It is going to turn to the right due east. 
+---Car  8 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car  3 has entered the intersection from the west. It is approaching the north. 
++++Car 12 has entered the intersection from the east. It is approaching the south. 
+---Car  3 has left the intersection. It entered from the west. It left the intersection heading north. 
+Car 11 has approached from the west. It is going to go straight due east. 
++++Car  2 has entered the intersection from the north. It is approaching the east. 
+---Car  2 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car  8 has approached from the west. It is going to turn to the right due south. 
+---Car 12 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 10 has approached from the west. It is going to turn to the right due south. 
++++Car  6 has entered the intersection from the east. It is approaching the south. 
+---Car  6 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 15 has entered the intersection from the west. It is approaching the north. 
+Car  7 has approached from the north. It is going to turn to the left due east. 
+Car  9 has approached from the east. It is going to turn to the right due north. 
+Car 17 has approached from the east. It is going to go straight due west. 
+Car 14 has approached from the west. It is going to go straight due east. 
+Car 18 has approached from the north. It is going to go straight due south. 
+Car 16 has approached from the west. It is going to go straight due east. 
+Car 19 has approached from the north. It is going to turn to the right due west. 
+---Car 15 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  7 has entered the intersection from the north. It is approaching the east. 
++++Car  9 has entered the intersection from the east. It is approaching the south. 
+Car  6 has approached from the east. It is going to go straight due west. 
+---Car  9 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 15 has approached from the west. It is going to turn to the left due north. 
+Car  3 has approached from the south. It is going to turn to the right due east. 
+---Car  7 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 18 has entered the intersection from the north. It is approaching the east. 
+---Car 18 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car  2 has approached from the east. It is going to go straight due west. 
+Car  9 has approached from the north. It is going to turn to the right due west. 
++++Car 19 has entered the intersection from the north. It is approaching the east. 
++++Car  4 has entered the intersection from the west. It is approaching the north. 
+Car 12 has approached from the south. It is going to turn to the left due west. 
+Car  7 has approached from the north. It is going to turn to the left due east. 
+---Car 19 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  9 has entered the intersection from the north. It is approaching the east. 
+Car 19 has approached from the north. It is going to turn to the left due east. 
+---Car  9 has left the intersection. It entered from the north. It left the intersection heading east. 
+---Car  4 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  5 has entered the intersection from the south. It is approaching the west. 
+---Car  5 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 17 has entered the intersection from the east. It is approaching the south. 
++++Car 11 has entered the intersection from the west. It is approaching the north. 
+---Car 17 has left the intersection. It entered from the east. It left the intersection heading south. 
+---Car 11 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  1 has entered the intersection from the south. It is approaching the west. 
+---Car  1 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  7 has entered the intersection from the north. It is approaching the east. 
+Car 11 has approached from the east. It is going to turn to the left due south. 
+Car 18 has approached from the south. It is going to turn to the left due west. 
+Car  4 has approached from the south. It is going to turn to the right due east. 
+Car  9 has approached from the south. It is going to turn to the left due west. 
+---Car  7 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 13 has entered the intersection from the south. It is approaching the west. 
++++Car  8 has entered the intersection from the west. It is approaching the north. 
+---Car  8 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car 10 has entered the intersection from the west. It is approaching the north. 
+Car  5 has approached from the east. It is going to go straight due west. 
+---Car 13 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  6 has entered the intersection from the east. It is approaching the south. 
+---Car 10 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  0 has entered the intersection from the south. It is approaching the west. 
+---Car  6 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 17 has approached from the south. It is going to turn to the right due east. 
+Car  1 has approached from the east. It is going to turn to the right due north. 
+Car 13 has approached from the south. It is going to turn to the right due east. 
+---Car  0 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  3 has entered the intersection from the south. It is approaching the west. 
++++Car  2 has entered the intersection from the east. It is approaching the south. 
+---Car  2 has left the intersection. It entered from the east. It left the intersection heading south. 
+---Car  3 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 11 has entered the intersection from the east. It is approaching the south. 
+Car  7 has approached from the south. It is going to turn to the left due west. 
+Car 10 has approached from the west. It is going to turn to the left due north. 
+---Car 11 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 14 has entered the intersection from the west. It is approaching the north. 
+---Car 14 has left the intersection. It entered from the west. It left the intersection heading north. 
+Car 14 has approached from the east. It is going to turn to the right due north. 
+Car  3 has approached from the east. It is going to go straight due west. 
++++Car 12 has entered the intersection from the south. It is approaching the west. 
+Car  8 has approached from the east. It is going to go straight due west. 
+Car  6 has approached from the east. It is going to go straight due west. 
+---Car 12 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 18 has entered the intersection from the south. It is approaching the west. 
+Car  0 has approached from the south. It is going to turn to the right due east. 
+Car 11 has approached from the west. It is going to turn to the right due south. 
+Car  2 has approached from the east. It is going to go straight due west. 
+---Car 18 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  4 has entered the intersection from the south. It is approaching the west. 
++++Car  5 has entered the intersection from the east. It is approaching the south. 
+---Car  5 has left the intersection. It entered from the east. It left the intersection heading south. 
+---Car  4 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  1 has entered the intersection from the east. It is approaching the south. 
++++Car 16 has entered the intersection from the west. It is approaching the north. 
+---Car 16 has left the intersection. It entered from the west. It left the intersection heading north. 
+---Car  1 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 19 has entered the intersection from the north. It is approaching the east. 
++++Car 14 has entered the intersection from the east. It is approaching the south. 
+Car  4 has approached from the north. It is going to turn to the left due east. 
+---Car 14 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 12 has approached from the west. It is going to turn to the right due south. 
+---Car 19 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  3 has entered the intersection from the east. It is approaching the south. 
+---Car  3 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 15 has entered the intersection from the west. It is approaching the north. 
+Car  1 has approached from the east. It is going to go straight due west. 
+Car 18 has approached from the north. It is going to turn to the right due west. 
+Car 19 has approached from the north. It is going to turn to the right due west. 
+Car 14 has approached from the north. It is going to turn to the right due west. 
+---Car 15 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  9 has entered the intersection from the south. It is approaching the west. 
+Car  5 has approached from the south. It is going to go straight due north. 
+Car 16 has approached from the south. It is going to go straight due north. 
+Car  3 has approached from the north. It is going to turn to the right due west. 
+---Car  9 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  4 has entered the intersection from the north. It is approaching the east. 
+Car  9 has approached from the west. It is going to turn to the right due south. 
+---Car  4 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 17 has entered the intersection from the south. It is approaching the west. 
++++Car  8 has entered the intersection from the east. It is approaching the south. 
+---Car  8 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 18 has entered the intersection from the north. It is approaching the east. 
+---Car 17 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 10 has entered the intersection from the west. It is approaching the north. 
+---Car 18 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 19 has entered the intersection from the north. It is approaching the east. 
+Car 15 has approached from the south. It is going to turn to the right due east. 
+Car 17 has approached from the east. It is going to turn to the right due north. 
+---Car 19 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 14 has entered the intersection from the north. It is approaching the east. 
+---Car 10 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car 13 has entered the intersection from the south. It is approaching the west. 
+Car  8 has approached from the south. It is going to turn to the right due east. 
+Car  4 has approached from the east. It is going to go straight due west. 
++++Car 11 has entered the intersection from the west. It is approaching the north. 
+---Car 14 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car 14 has approached from the east. It is going to go straight due west. 
++++Car  3 has entered the intersection from the north. It is approaching the east. 
+---Car 13 has left the intersection. It entered from the south. It left the intersection heading west. 
+Car 13 has approached from the west. It is going to go straight due east. 
+Car 19 has approached from the west. It is going to go straight due east. 
+---Car 11 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car 12 has entered the intersection from the west. It is approaching the north. 
+---Car  3 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  7 has entered the intersection from the south. It is approaching the west. 
+---Car 12 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  9 has entered the intersection from the west. It is approaching the north. 
+Car 18 has approached from the west. It is going to turn to the right due south. 
+---Car  9 has left the intersection. It entered from the west. It left the intersection heading north. 
+---Car  7 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  6 has entered the intersection from the east. It is approaching the south. 
++++Car  0 has entered the intersection from the south. It is approaching the west. 
+---Car  6 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 10 has approached from the south. It is going to turn to the right due east. 
+---Car  0 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 13 has entered the intersection from the west. It is approaching the north. 
+---Car 13 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car  5 has entered the intersection from the south. It is approaching the west. 
+---Car  5 has left the intersection. It entered from the south. It left the intersection heading west. 
+Car  5 has approached from the east. It is going to turn to the right due north. 
+Car 11 has approached from the east. It is going to turn to the right due north. 
++++Car  2 has entered the intersection from the east. It is approaching the south. 
+---Car  2 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 19 has entered the intersection from the west. It is approaching the north. 
+Car  3 has approached from the north. It is going to go straight due south. 
+---Car 19 has left the intersection. It entered from the west. It left the intersection heading north. 
+Car 13 has approached from the east. It is going to turn to the left due south. 
++++Car  3 has entered the intersection from the north. It is approaching the east. 
+---Car  3 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 16 has entered the intersection from the south. It is approaching the west. 
+---Car 16 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 18 has entered the intersection from the west. It is approaching the north. 
+Car  7 has approached from the east. It is going to go straight due west. 
++++Car  1 has entered the intersection from the east. It is approaching the south. 
+---Car  1 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 15 has entered the intersection from the south. It is approaching the west. 
+---Car 18 has left the intersection. It entered from the west. It left the intersection heading north. 
+Car 18 has approached from the south. It is going to turn to the left due west. 
+Car 12 has approached from the east. It is going to go straight due west. 
+Car  0 has approached from the east. It is going to turn to the left due south. 
+Car 19 has approached from the north. It is going to turn to the right due west. 
++++Car 17 has entered the intersection from the east. It is approaching the south. 
+---Car 15 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  8 has entered the intersection from the south. It is approaching the west. 
+Car  9 has approached from the east. It is going to go straight due west. 
+Car  2 has approached from the north. It is going to turn to the right due west. 
++++Car 19 has entered the intersection from the north. It is approaching the east. 
+---Car 17 has left the intersection. It entered from the east. It left the intersection heading south. 
+---Car  8 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 10 has entered the intersection from the south. It is approaching the west. 
+---Car 19 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  4 has entered the intersection from the east. It is approaching the south. 
+---Car  4 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 15 has approached from the north. It is going to turn to the right due west. 
++++Car  2 has entered the intersection from the north. It is approaching the east. 
+Car  6 has approached from the east. It is going to go straight due west. 
+Car 16 has approached from the east. It is going to turn to the left due south. 
+---Car 10 has left the intersection. It entered from the south. It left the intersection heading west. 
+---Car  2 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car  1 has approached from the east. It is going to turn to the left due south. 
+Car 17 has approached from the east. It is going to turn to the right due north. 
++++Car 14 has entered the intersection from the east. It is approaching the south. 
+---Car 14 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 14 has approached from the east. It is going to turn to the left due south. 
++++Car 18 has entered the intersection from the south. It is approaching the west. 
+---Car 18 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  5 has entered the intersection from the east. It is approaching the south. 
++++Car 15 has entered the intersection from the north. It is approaching the east. 
+Car  8 has approached from the north. It is going to go straight due south. 
+---Car  5 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 11 has entered the intersection from the east. It is approaching the south. 
+---Car 15 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  8 has entered the intersection from the north. It is approaching the east. 
+---Car  8 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car  2 has approached from the east. It is going to go straight due west. 
+---Car 11 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 15 has approached from the south. It is going to go straight due north. 
++++Car 13 has entered the intersection from the east. It is approaching the south. 
+Car  4 has approached from the south. It is going to turn to the right due east. 
+Car 10 has approached from the north. It is going to turn to the right due west. 
+Car 11 has approached from the east. It is going to turn to the right due north. 
+---Car 13 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car  7 has entered the intersection from the east. It is approaching the south. 
+---Car  7 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 10 has entered the intersection from the north. It is approaching the east. 
++++Car 15 has entered the intersection from the south. It is approaching the west. 
+---Car 15 has left the intersection. It entered from the south. It left the intersection heading west. 
+---Car 10 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car 12 has entered the intersection from the east. It is approaching the south. 
+---Car 12 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 12 has approached from the south. It is going to turn to the right due east. 
++++Car  4 has entered the intersection from the south. It is approaching the west. 
++++Car  0 has entered the intersection from the east. It is approaching the south. 
+---Car  4 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car 12 has entered the intersection from the south. It is approaching the west. 
+Car  5 has approached from the north. It is going to turn to the left due east. 
+---Car 12 has left the intersection. It entered from the south. It left the intersection heading west. 
+---Car  0 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car  5 has entered the intersection from the north. It is approaching the east. 
+Car  7 has approached from the east. It is going to go straight due west. 
+Car 10 has approached from the north. It is going to turn to the left due east. 
+Car 13 has approached from the south. It is going to turn to the left due west. 
+---Car  5 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  9 has entered the intersection from the east. It is approaching the south. 
+---Car  9 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 10 has entered the intersection from the north. It is approaching the east. 
+Car  0 has approached from the east. It is going to turn to the left due south. 
+---Car 10 has left the intersection. It entered from the north. It left the intersection heading east. 
++++Car  6 has entered the intersection from the east. It is approaching the south. 
+---Car  6 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car  6 has approached from the west. It is going to go straight due east. 
++++Car 13 has entered the intersection from the south. It is approaching the west. 
+---Car 13 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  6 has entered the intersection from the west. It is approaching the north. 
+---Car  6 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car 16 has entered the intersection from the east. It is approaching the south. 
+---Car 16 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car  1 has entered the intersection from the east. It is approaching the south. 
+---Car  1 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car  1 has approached from the west. It is going to turn to the right due south. 
++++Car 17 has entered the intersection from the east. It is approaching the south. 
++++Car  1 has entered the intersection from the west. It is approaching the north. 
+---Car 17 has left the intersection. It entered from the east. It left the intersection heading south. 
+---Car  1 has left the intersection. It entered from the west. It left the intersection heading north. 
++++Car 14 has entered the intersection from the east. It is approaching the south. 
+Car 16 has approached from the north. It is going to go straight due south. 
+---Car 14 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car  2 has entered the intersection from the east. It is approaching the south. 
+---Car  2 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 16 has entered the intersection from the north. It is approaching the east. 
+---Car 16 has left the intersection. It entered from the north. It left the intersection heading east. 
+Car 16 has approached from the south. It is going to go straight due north. 
++++Car 11 has entered the intersection from the east. It is approaching the south. 
+---Car 11 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 16 has entered the intersection from the south. It is approaching the west. 
+---Car 16 has left the intersection. It entered from the south. It left the intersection heading west. 
++++Car  7 has entered the intersection from the east. It is approaching the south. 
+---Car  7 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car 17 has approached from the east. It is going to turn to the right due north. 
++++Car  0 has entered the intersection from the east. It is approaching the south. 
+---Car  0 has left the intersection. It entered from the east. It left the intersection heading south. 
++++Car 17 has entered the intersection from the east. It is approaching the south. 
+---Car 17 has left the intersection. It entered from the east. It left the intersection heading south. 
+Car  0 has approached from the west. It is going to turn to the left due north. 
++++Car  0 has entered the intersection from the west. It is approaching the north. 
+---Car  0 has left the intersection. It entered from the west. It left the intersection heading north. 
