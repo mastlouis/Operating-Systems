@@ -1,0 +1,130 @@
+===== Mid-Day Commander, v0 =====
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? 0
+
+-- Who Am I? --
+mastlouis
+
+-- Statistics ---
+Elapsed time: 1248 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 6
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? 1
+
+-- Last Logins --
+mastloui tty7         :0               Fri Jan 25 16:40    gone - no logout
+reboot   system boot  4.4.162mastlouis Fri Jan 25 16:39   still running
+mastloui tty7         :0               Wed Jan 16 17:50 - crash (8+22:49)
+reboot   system boot  4.4.162mastlouis Wed Jan 16 17:45   still running
+mastloui tty7         :0               Mon Jan 14 23:51 - crash (1+17:54)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:22   still running
+mastloui tty7         :0               Mon Jan 14 23:48 - down   (00:02)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:19 - 23:50 (2+21:31)
+mastloui tty7         :0               Mon Jan 14 23:37 - down   (00:09)
+reboot   system boot  4.4.162mastlouis Sat Jan 12 02:09 - 23:47 (2+21:37)
+mastloui tty7         :0               Fri Jan 11 14:30 - crash  (11:38)
+reboot   system boot  4.4.0-31-generic Fri Jan 11 14:29 - 23:47 (3+09:18)
+
+wtmp begins Fri Jan 11 14:29:25 2019
+
+-- Statistics ---
+Elapsed time: 1542 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? 2
+
+-- Directory listing --
+Arguments? -a -l
+Path?/home/mastlouis
+total 204
+drwxr-xr-x 20 mastlouis mastlouis  4096 Jan 25 16:40 .
+drwxr-xr-x  3 root      root       4096 Jan 11 14:22 ..
+-rw-------  1 mastlouis mastlouis  4347 Jan 22 20:28 .bash_history
+-rw-r--r--  1 mastlouis mastlouis   220 Jan 11 14:22 .bash_logout
+-rw-r--r--  1 mastlouis mastlouis  3771 Jan 11 14:22 .bashrc
+drwx------ 15 mastlouis mastlouis  4096 Jan 20 20:46 .cache
+drwxrwxr-x  4 mastlouis mastlouis  4096 Jan 20 17:07 .CLion2018.3
+drwx------ 18 mastlouis mastlouis  4096 Jan 20 13:50 .config
+drwxrwxr-x  6 mastlouis mastlouis  4096 Jan 25 22:23 CS3013
+drwx------  3 root      root       4096 Jan 14 13:10 .dbus
+drwxr-xr-x  3 mastlouis mastlouis  4096 Jan 16 17:50 Desktop
+-rw-r--r--  1 mastlouis mastlouis    25 Jan 11 14:30 .dmrc
+drwxr-xr-x  4 mastlouis mastlouis  4096 Jan 15 00:10 Documents
+drwxr-xr-x  5 mastlouis mastlouis  4096 Jan 25 23:24 Downloads
+-rw-r--r--  1 mastlouis mastlouis  8980 Jan 11 14:22 examples.desktop
+drwx------  2 mastlouis mastlouis  4096 Jan 11 14:48 .gconf
+drwx------  3 mastlouis mastlouis  4096 Jan 25 16:40 .gnupg
+-rw-------  1 mastlouis mastlouis  2172 Jan 25 16:40 .ICEauthority
+drwxrwxr-x  4 mastlouis mastlouis  4096 Jan 20 17:07 .java
+-rw-rw-r--  1 mastlouis mastlouis 68007 Jan 20 17:07 java_error_in_CLION_12635.log
+drwx------  3 mastlouis mastlouis  4096 Jan 11 14:30 .local
+drwx------  5 mastlouis mastlouis  4096 Jan 12 16:11 .mozilla
+drwxr-xr-x  2 mastlouis mastlouis  4096 Jan 11 14:30 Music
+drwxr-xr-x  2 mastlouis mastlouis  4096 Jan 11 14:30 Pictures
+-rw-r--r--  1 mastlouis mastlouis   655 Jan 11 14:22 .profile
+drwxr-xr-x  2 mastlouis mastlouis  4096 Jan 11 14:30 Public
+-rw-------  1 root      root       1024 Jan 14 10:57 .rnd
+-rw-r--r--  1 mastlouis mastlouis     0 Jan 11 14:37 .sudo_as_admin_successful
+drwxr-xr-x  2 mastlouis mastlouis  4096 Jan 11 14:30 Templates
+drwxr-xr-x  2 mastlouis mastlouis  4096 Jan 11 14:30 Videos
+-rw-------  1 mastlouis mastlouis    62 Jan 25 16:40 .Xauthority
+-rw-------  1 mastlouis mastlouis   331 Jan 25 23:23 .xsession-errors
+-rw-------  1 mastlouis mastlouis    82 Jan 16 17:50 .xsession-errors.old
+
+-- Statistics ---
+Elapsed time: 2990 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? 
+Error: Please enter a command.
+Option? 2
+
+-- Directory listing --
+Arguments? 
+Path?
+Makefile  mc0.c  mc1 mc1.h  mc2.c  testV0  testv2
+mc0     mc0.h  mc1.c mc2    mc2.h  testV1
+
+-- Statistics ---
+Elapsed time: 1637 milliseconds.
+Page Faults: 0
+Page Faults (reclaimed): 3
+
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? cheeseburger
+Error: illegal command. Please enter a specified command.
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? cheese burger
+Error: Please only enter one token per command.
+Option? 3
+Error: illegal command. Please enter a specified command.
+G'day, Commander. What command would you like to run?
+   0. whoami  : Prints out the result of the whoami command
+   1. last    : Prints out the result of the last command
+   2. ls      : Prints out the result of a listing on the user-specified path
+Option? '); Drop Table Commands --
+Error: Please only enter one token per command.
