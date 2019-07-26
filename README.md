@@ -1,10 +1,12 @@
 # Operating-Systems
 This repository contains the assignments I completed for my Operating Systems course. The four Projects I completed were as follows:
-- [Loadable Kernel Module](#Project-0:-Loadable-Kernel-Module)
-- [Midday Commander](#Project-1:-Midday-Commander)
-  - [Foundation](#Version-0:-Foundation)
-  - [Extendable Commander](#Version-1:-Extendable-Commander)
-  - [Asynchronous Commander](#Version-2:-Asynchronous-Commander)
+- [Operating-Systems](#operating-systems)
+  - [Project 0: Loadable Kernel Module](#project-0-loadable-kernel-module)
+  - [Project 1: Midday Commander](#project-1-midday-commander)
+    - [Version 0: Foundation](#version-0-foundation)
+    - [Version 1: Extendable Commander](#version-1-extendable-commander)
+    - [Version 2: Asynchronous Commander](#version-2-asynchronous-commander)
+  - [Other](#other)
 
 ## [Project 0](https://github.com/mastlouis/Operating-Systems/tree/master/p0): Loadable Kernel Module
 
@@ -33,3 +35,5 @@ This version of Midday Commander allows the user to run background commands. Thi
 This program accomplishes asynchronysity by spawning a new process for each background command using *fork* and *exec*. When building this program, I confused threads and processes. Each of a process's threads has its own private stack, but they all share one heap. Processes may copy their parent process's data when created, but they overwrite this data when *exec* is called. Processes do not share a stack or heap. When I designed this program, I remembered to share data in the heap rather than in the stack, but I forgot that threads share a heap, not processes. When the user runs the command to list running processes after at least one background command has run, the program will seg fault and terminate. Asynchronous Commander is otherwise functional.
 
 Test cases for Version 2 and their output can be found in the [testv2](https://github.com/mastlouis/Operating-Systems/tree/master/p1/testv2) folder.
+
+## Other
