@@ -11,6 +11,8 @@ This repository contains the assignments I completed for my Operating Systems co
     - [cs3013_project2.c](#cs3013project2c)
     - [theCleanOne.c](#thecleanonec)
   - [Project 3: Locks and Threads](#project-3-locks-and-threads)
+    - [Part 1: Costume Shop](#part-1-costume-shop)
+    - [Part 2: Intersection](#part-2-intersection)
 
 ## [Project 0](https://github.com/mastlouis/Operating-Systems/tree/master/p0): Loadable Kernel Module
 
@@ -68,3 +70,20 @@ theCleanOne.c is a different version of the testcalls.c file. It makes a version
 
 ## [Project 3](https://github.com/mastlouis/Operating-Systems/tree/master/p3): Locks and Threads
 
+Project 3 consists of two executables, each of which simulates a fairly absurd scenario that requires locking. Each part is capable of creating an arbitrary number of threads, then navigating each through a critical section using locks and semaphores.
+
+Neither of these programs tamper with the operating system, so they should be safe to execute. They have only been tested on a virtual machine, so using one for execution is recommended. Any thread-related problems should be resolvable with a system restart.
+
+### [Part 1](https://github.com/mastlouis/Operating-Systems/blob/master/p3/part1.c): Costume Shop
+
+Part 1 simulates a costume shop where pirates and ninjas purchase their costumes. The rules are that the shop controls who gets into the shop when, and the shop must never allow both pirates and ninjas to occupy the shop at the same time. On top of this, the costume shop must be fair so that neither pirates nor ninjas can indefinitely block the other faction.
+
+A fair amount of the complexity of this program exists to work around the parameters of the assignment. In addition to accurately simulating the Costume Shop, the program must also track the total profit of the costume shop, the total amount of time that each person spends waiting, the total amount of time each person spends inside the shop, and other details.
+
+### [Part 2](https://github.com/mastlouis/Operating-Systems/blob/master/p3/part2.c): Intersection
+
+Part 2 simulates an intersection where cars approach from the North, East, South, or West. The intersection is broken into four quadrants, NE, SE, SW, and NW. Right turns require one quadrant, straights require two, and left turns require three. Multiple cars can be in the intersection at any time, but only one car may occupy any quadrant at any one time. 
+
+This simulation makes liberal use of switch statements fall-throughs to maximize code reuse.
+
+The number of cars is currently hard-coded to be 20, but this can be changed on line 282. Making this number into a constant would be an easy fix, but I want to preserve the code in its state at time of submission.
